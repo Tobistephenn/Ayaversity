@@ -2,6 +2,10 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"name": "Ayaversity-1",
+			"path": "../Ayaversity-1"
 		}
 	],
 	"settings": {}
